@@ -1,0 +1,218 @@
+body {
+    background-color: #83BD75;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+li {
+    list-style: none;
+}
+
+.header-list 
+{ 
+    display: flex; 
+    align-items: center; 
+    padding: 10px 20px; 
+    list-style: none;
+} 
+ 
+nav { 
+    flex: 1; 
+    text-align: right; 
+}   
+ 
+nav ul { 
+    display: inline-block; 
+    list-style: none; 
+} 
+ 
+nav ul li { 
+    display: inline-block; 
+    margin-right: 70px; 
+
+} 
+ 
+nav ul li a { 
+    text-decoration: none; 
+    font-size: 20px; 
+    color: azure; 
+    font-family: sans-serif; 
+} 
+ 
+nav ul li button { 
+    font-size: 20px; 
+    color: bisque; 
+    outline: none; 
+    border: none; 
+    background: transparent; 
+    cursor: pointer; 
+    font-family: sans-serif; 
+} 
+ 
+nav ul li button:hover { 
+    color: #83BD75; 
+} 
+ 
+nav uli a:hover { 
+    color: #83BD75; 
+} 
+ 
+a { 
+    text-decoration: none; 
+    color: #F5F0BB; 
+    font-size: 28px; 
+}
+
+ 
+.logogo{
+    width: 130px;
+    float: left;
+    margin-top: 5px;
+    margin-left: 20px;
+}
+
+
+.header-logo { 
+    font-size: 47px; 
+    float: left; 
+    padding-top: 5px; 
+} 
+ 
+.header-list li{ 
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: #F5F0BB;
+    font-size: 25px;
+    float: right; 
+    padding: 33px 20px; 
+} 
+
+body {
+    margin: 0;
+}
+
+a {
+    text-decoration: none;
+}
+
+.desc{
+    color: #A4BE7B;
+    font-size: larger;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.galer{
+    position: relative;
+    float: right;
+}
+
+.fotoh{
+    margin: 30px 30px;
+    width: fit-content;
+    border-radius: 20px;
+    text-align: center;
+    background-color: #285430;
+    transition: 0.3s;
+    filter: brightness(75%)
+}
+
+.fotoh:hover{
+    transition: 0.3s;
+    margin: 20px 20px;
+    font-weight: bold;
+    background-color: #285430;
+    filter: brightness(90%)
+}
+
+.poto{
+    margin: 30px 30px;
+    border-radius: 20px;
+    width: fit-content;
+    text-align: center;
+    background-color: #285430;
+    transition: 0.3s;
+    filter: brightness(75%)
+}
+
+.poto:hover{
+    transition: 0.3s;
+    margin: 20px 20px;
+    font-weight: bold;
+    background-color: #285430;
+    filter: brightness(90%)
+}
+
+.potohh{
+    margin: 30px 30px;
+    width: fit-content;
+    text-align: center;
+    border-radius: 20px;
+    background-color: #285430;
+    transition: 0.3s;
+    filter: brightness(75%)
+}
+
+.potohh:hover{
+    transition: 0.3s;
+
+    font-weight: bold;
+    background-color: #285430;
+    filter: brightness(90%)
+}
+
+.gelar{
+    position: relative;
+    float: right;
+}
+
+.froto{
+    margin: 30px 30px;
+    width: fit-content;
+    text-align: center;
+    border-radius: 20px;
+    background-color: #285430;
+    transition: 0.3s;
+    filter: brightness(75%)
+}
+
+.froto:hover{
+    transition: 0.3s;
+    margin: 20px 20px;
+    font-weight: bold;
+    background-color: 285430;
+    filter: brightness(90%)
+}
+
+.frotoh{
+    margin: 30px 30px;
+    width: fit-content;
+    text-align: center;
+    border-radius: 20px;
+    background-color: #285430;
+    transition: 0.3s;
+    filter: brightness(75%)
+}
+
+.frotoh:hover{
+    transition: 0.3s;
+    margin: 20px 20px;
+    font-weight: bold;
+    background-color: #285430;
+    filter: brightness(90%)
+}
+
+.frotohh{
+    margin: 30px 30px;
+    width: fit-content;
+    text-align: center;
+    border-radius: 20px;
+    background-color: #285430;
+    transition: 0.3s;
+    filter: brightness(75%)
+}
+
+.frotohh:hover{
+    transition: 0.3s;
+    margin: 20px 20px;
+    font-weight: bold;
+    background-color: #285430;
+    filter: brightness(90%)
+}
